@@ -105,6 +105,7 @@ export const CellInput = ({
                 },
             },
             matchBrackets: true,
+            keyMap: "vim",
         }))
 
         const keys = {}
